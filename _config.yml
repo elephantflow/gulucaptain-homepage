@@ -4,6 +4,7 @@
 title: "Haoyu Zhao"
 description: "Personal academic homepage of Haoyu Zhao."
 repository: "elephantflow/gulucaptain-homepage"
+enable_google_scholar_stats: false
 
 # SEO Related (Optional - leave empty if not used)
 google_site_verification:
